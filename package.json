@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npx nodemon conceptos/modulos/procesoHijo",
+    "dev": "npx nodemon conceptos/memoria/stream",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.0",
+    "moment": "^2.29.4",
     "nodemon": "^2.0.20"
   }
 }

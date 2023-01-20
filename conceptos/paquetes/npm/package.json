@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon conceptos/paquetes/npm/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "is-odd-num": "^1.1.1"
+  }
+}
